@@ -1,6 +1,6 @@
 # intro-to-github
 
-/// HERE WERE @GELST13
+/// HERE WERE @GELST13 eMail: Gelst13@rambler.ru
 
 This is a demo repository to practice using GitHub.
 
